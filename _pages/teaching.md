@@ -8,7 +8,7 @@ nav: true
 
 
 
-**Security and Management of Information Systems**
+**Security and Management of Information Systems**\\
 Spring '22, Instituto Superior Técnico, University of Lisbon
 https://fenix.tecnico.ulisboa.pt/disciplinas/OGFI/2021-2022/2-semestre
 
