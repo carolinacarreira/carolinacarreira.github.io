@@ -55,10 +55,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: CarolinaCC
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username: ccarolcarreira
+linkedin_username: carolina-carreira-72595449/
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -66,7 +66,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://fenix.tecnico.ulisboa.pt/homepage/ist187641
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -84,9 +84,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+# blog_name: carolina-carreira  # your blog must have a name for it to show up in the nav bar
+# blog_description: a simple whitespace theme for academics
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -271,7 +271,7 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
+enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
