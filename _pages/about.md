@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm a PhD Student at Instituto Superior Técnico in the University of Lisboa. 
+subtitle: Usable Security | Privacy | Formal Verification
 
 profile:
   align: right
@@ -14,6 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I'm a PhD Student at Instituto Superior Técnico in the University of Lisboa. 
 
 My current research interests are **usable security**, **formal verification** and password managers. De-Fi finance and its link to usable security is also a topic that interests me. 
 
