@@ -22,7 +22,7 @@ My current research interests are **usable security**, **formal verification** a
 
 I'm currently part of the [PassCert Project](https://passcert-project.github.io/) that aims to build a proof-of-concept password manager that through the use of formal verification, is guaranteed to satisfy properties on data storage and password generation. We aim to determine whether formal verification can increase users’ confidence in PMs and thus increase their adoption.
 
-I also love voluntering and I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. 
+I also love voluntering and I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. I play the violin and was a part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/).
 
 <!-- My hobbies include  -->
 
