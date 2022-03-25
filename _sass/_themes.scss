@@ -7,8 +7,11 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$pastel-pink};
+  --global-theme-color: #{$dark-pastel-pink};
   --global-hover-color: #{$pastel-pink};
+  // icon colors
+  --global-icon-color: #{$pastel-pink};
+  --global-icon-hover: #{$black-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -17,7 +20,6 @@
   --global-card-bg-color: #{$white-color};
 
   .fa-sun {
-    color: #{$pastel-pink};
     display : none;
   }
   .fa-moon {
@@ -40,6 +42,9 @@ html[data-theme='dark'] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
+    // icon colors
+    --global-icon-color: #{$cyan-color};
+    --global-icon-hover: #{$grey-color-light};
 
   .fa-sun {
     padding-left: 10px;
