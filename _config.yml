@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Carolina <span class="font-weight-bold">Carreira</span> # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Carolina
 middle_name: M.
 last_name: Carreira
