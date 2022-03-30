@@ -18,6 +18,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
+  --global-shadow-color: #{$grey-color-light};
 
   .fa-sun {
     display : none;
@@ -45,6 +46,7 @@ html[data-theme='dark'] {
     // icon colors
     --global-icon-color: #{$pastel-pink};
     --global-icon-hover: #{$grey-color-light};
+    --global-shadow-color: #{$black-color};
 
   .fa-sun {
     padding-left: 10px;

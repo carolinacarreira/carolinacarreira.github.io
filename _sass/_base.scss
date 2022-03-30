@@ -99,9 +99,9 @@ blockquote {
 
 .about-image {
 	overflow: hidden;
-  -moz-box-shadow: 0 0 10px #ccc;
-  -webkit-box-shadow: 0 0 10px #ccc;
-  box-shadow: 0 0 10px #ccc;	
+  -moz-box-shadow: 0 0 10px var(--global-shadow-color);
+  -webkit-box-shadow: 0 0 10px var(--global-shadow-color);
+  box-shadow: 0 0 10px var(--global-shadow-color);
   margin-bottom: 40px;
 	img {
 		width: 100%;
@@ -600,3 +600,4 @@ html.transition *:after {
   font-size: 0.875rem;
   padding-top: 0.25rem;
 }
+
