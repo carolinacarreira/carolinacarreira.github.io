@@ -6,7 +6,7 @@ subtitle: Usable Security | Privacy | Formal Verification
 
 profile:
   align: right
-  image: carolina_porto.jpeg
+  image: foto-casamento.jpeg
   address: 
 
 news: true  # includes a list of news items
