@@ -22,6 +22,7 @@ I'm currently part of the [PassCert Project](https://passcert-project.github.io/
 
 I also love volunteering and I'm currently collaborating with the [Portuguese Red Cross](https://www.cruzvermelha.pt/estruturas-locais-lista/169-castelo-branco.html) teaching young afghan refugies programming. I play the violin and was part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/). My hobbies include hiking and reading unpublished books.
 
+Feel free to reach out to me using my socials if you want to talk about any of these topics.
 
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
