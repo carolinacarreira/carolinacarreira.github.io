@@ -6,7 +6,9 @@ description: Here is a list of courses that I am TAing/TA’ed.
 nav: true
 ---
 
-
+**Foundations of Programming**<br>
+Fall '22, Instituto Superior Técnico, University of Lisbon<br>
+Site: [Foundations of Programming](https://fenix.tecnico.ulisboa.pt/disciplinas/FProg-2/2022-2023/1-semestre)
 
 **Security and Management of Information Systems**<br>
 Spring '22, Instituto Superior Técnico, University of Lisbon<br>
