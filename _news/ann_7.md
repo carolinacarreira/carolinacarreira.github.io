@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-9 15:59:00-0000
+date: 2022-6-7 15:00:00-0100
 inline: true
 ---
 
-Attended the CMU Portugal 2022 Summit and presented a [poster](/assets/pdf/2_Summit.pdf) about my recent work.
+Presenting **"Are Users More Willing to Use Formally Verified Password Managers** and [Vila Velha de Rodão's library](assets/pdf/agenda_cultural.pdf)
