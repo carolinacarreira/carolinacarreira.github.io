@@ -1,5 +1,6 @@
 ---
 layout: post
+title: IST PhD Open Days
 date: 2022-9-14 15:59:00-0000
 inline: true
 ---

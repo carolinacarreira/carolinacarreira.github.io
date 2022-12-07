@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Studying Users' Willingness to Use a Formally Verified Password Manager
 date: 2022-6-7 15:00:00-0100
 inline: true
 ---

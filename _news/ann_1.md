@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Research Agenda
 date: 2021-10-04 15:59:00-0000
 inline: true
 ---

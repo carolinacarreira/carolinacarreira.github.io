@@ -1,5 +1,6 @@
 ---
 layout: post
+title: CMU Portugal Dual-Degree!
 date: 2022-4-1 15:00:00-0100
 inline: true
 ---
