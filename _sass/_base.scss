@@ -570,6 +570,12 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post{
+  .post-title-news{
+    color: var(--global-text-color);
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+
   .post-meta{
     color: var(--global-text-color-light);
     font-size: 0.875rem;
