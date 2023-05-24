@@ -13,16 +13,15 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+I am a Ph.D. Student at Carnegie Mellon University in Pittsburg and Instituto Superior Técnico at the University of Lisboa. 
 
-I'm a PhD Student at Carnegie Mellon University in Pittsburg and in Instituto Superior Técnico in the University of Lisboa. 
+My current research interests are **usable security**, **formal verification**, and password managers. De-Fi finance and its link to usable security is also a topic that interests me. 
 
-My current research interests are **usable security**, **formal verification** and, password managers. De-Fi finance and its link to usable security is also a topic that interests me. 
+I am currently part of the [PassCert Project](https://passcert-project.github.io/) that aims to build a proof-of-concept password manager that, through the use of formal verification, is guaranteed to satisfy properties on data storage and password generation. We aim to determine whether formal verification can increase users’ confidence in PMs and thus increase their adoption.
 
-I'm currently part of the [PassCert Project](https://passcert-project.github.io/) that aims to build a proof-of-concept password manager that through the use of formal verification, is guaranteed to satisfy properties on data storage and password generation. We aim to determine whether formal verification can increase users’ confidence in PMs and thus increase their adoption.
+I also love volunteering, and I'm currently collaborating with the [Portuguese Red Cross](https://www.cruzvermelha.pt/estruturas-locais-lista/169-castelo-branco.html) teaching young Afghan refugees programming. I played the violin and was part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/). My hobbies include hiking and reading unpublished books.
 
-I also love volunteering and I'm currently collaborating with the [Portuguese Red Cross](https://www.cruzvermelha.pt/estruturas-locais-lista/169-castelo-branco.html) teaching young afghan refugies programming. I play the violin and was part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/). My hobbies include hiking and reading unpublished books.
-
-Feel free to reach out to me using my socials if you want to talk about any of these topics.
+Feel free to contact me using my socials to discuss any of these topics.
 
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
