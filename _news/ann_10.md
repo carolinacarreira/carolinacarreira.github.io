@@ -7,6 +7,6 @@ inline: true
 
 I am honored and happy to have won the [Huawei Seed for the Future 2.0](https://programadebolsashuawei.pt/) award in recognition of my academic and personal achievements.  
 
- {% include figure.html path="assets/img/huawei.jpg" class="img-fluid rounded z-depth-1" %} 
+ {% include figure.html path="assets/img/huawei.jpeg" class="img-fluid rounded z-depth-1" %} 
 
 
