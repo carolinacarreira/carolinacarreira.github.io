@@ -6,7 +6,7 @@ description: Here is a list of courses that I am TAing/TA’ed.
 nav: true
 ---
 
-**Programming Languages*<br>
+**Programming Languages**<br>
 Spring '23, Instituto Superior Técnico, University of Lisbon<br>
 Site: [Programming Languages](https://fenix.tecnico.ulisboa.pt/disciplinas/LPro/2022-2023/2-semestre)
 
