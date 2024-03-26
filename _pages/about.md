@@ -6,7 +6,7 @@ subtitle: Usable Security | Privacy | Formal Verification
 
 profile:
   align: right
-  image: Ohyopile.jpeg
+  image: ohyopile.jpg
   address: 
 
 news: true  # includes a list of news items
