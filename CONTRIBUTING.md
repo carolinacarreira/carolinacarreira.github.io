@@ -8,7 +8,7 @@ For minor fixes (e.g., documentation improvements), feel free to submit a PR dir
 If you would like to implement a new feature or a bug, please make sure you (or someone else) has opened an appropriate issue first; in your PR, please mention the issue it addresses.
 
 
-## Issues
+## Issuesjhljhkjhkj
 We use GitHub issues to track bugs and feature requests.
 Before submitting an issue, please make sure:
 
