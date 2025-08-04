@@ -16,12 +16,12 @@ I am a Ph.D. Student at Carnegie Mellon University in Pittsburgh (by Prof. Nicol
 
 My current research interests are **usable security**, **software engineering**. My focus is asymmetric communication in contexts of security and privacy. I'm interested in understanding how experts, end-users, and companies communicate about privacy and how we can improve this communication. 
 
-I also love volunteering, and I'm currently part of the Cylab Student Seminar Committee. I'm also collaborating with the [Portuguese Red Cross](https://www.cruzvermelha.pt/estruturas-locais-lista/169-castelo-branco.html), teaching young Afghan refugees programming. I played the violin and was part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/). My hobbies include hiking and reading unpublished books.
+I also love volunteering, and I'm currently part of ACM SIGPLAN-M as a matching coordinator and I'm on the Student Committee at INESC-ID. I'm currently also collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. I played the violin and was part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/). My hobbies include crafting and reading unpublished books.
 
 
 Feel free to contact me using my socials to discuss any of these topics.
 
-<!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
+<!-- My hobbies include   I'm also collaborating with the [Portuguese Red Cross](https://www.cruzvermelha.pt/estruturas-locais-lista/169-castelo-branco.html), teaching young Afghan refugees programming.--> 
 
 
 <!-- <a href='#'>Affiliations</a>. -->
