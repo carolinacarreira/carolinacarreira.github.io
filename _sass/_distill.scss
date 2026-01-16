@@ -53,9 +53,11 @@ d-article {
     nav {
       grid-column: toc;
       a {
-        border-bottom: none !important;
+        border-bottom: 1px solid transparent !important;
+        transition: border-bottom-color 0.2s ease;
         &:hover {
-          border-bottom: 1px solid var(--global-text-color) !important;
+          border-bottom-color: var(--global-theme-color) !important;
+          color: var(--global-theme-color) !important;
         }
       }
       h3 {
