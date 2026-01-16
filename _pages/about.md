@@ -1,11 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Usable Security | Security and Privacy | Software Engeneering
 profile:
   align: right
-  image: ohyopile.jpg
+  image: caroline.png
   address: 
 
 news: true  # includes a list of news items

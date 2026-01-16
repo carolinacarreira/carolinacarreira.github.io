@@ -2,7 +2,7 @@
 layout: page
 title: Awards and Outreach
 permalink: /outreach/
-description: A growing collection my current and old news.
+description: An overview of honours, awards, outreach, and volunteer service.
 nav: true
 horizontal: false
 ---
