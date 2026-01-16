@@ -6,15 +6,6 @@ description: publications by categories in reversed chronological order.
 years: [2022, 2021, 1905]
 nav: true
 ---
-Below is a **clean, ready-to-use Markdown section** you can drop into a **Jekyll (al-folio–style) website**.
-
-* Your name (**Carolina Carreira**) is **bolded** in every paper.
-* Papers are **separated into First-Author Publications** and **Collaborative Publications**.
-* Ordered **by year (descending)**.
-* Uses plain Markdown (no custom plugins required).
-
----
-
 ## Publications
 
 ### First-Author Publications
@@ -40,16 +31,6 @@ Below is a **clean, ready-to-use Markdown section** you can drop into a **Jekyll
 * **Carolina Carreira**, Alexandra Mendes, João F. Ferreira, Nicolas Christin.
   *A Systematic Review of Security Communication Strategies: Guidelines and Open Challenges.*
   arXiv preprint, 2025.
-
-**2024**
-
-* **Carolina Carreira**, C. Berger, K. Shah, S. Agarwal, Y. Thakur, McKenna McCall, Nicolas Christin, et al.
-  *Who’s Listening? Analyzing Privacy Preferences in Multi-User Smart Personal Assistants Settings.*
-  2024.
-
-* **Carolina Carreira**, McKenna McCall, Lorrie Faith Cranor.
-  *How to Explain Trusted Execution Environments.*
-  USENIX Symposium on Usable Privacy and Security (SOUPS), 2024.
 
 **2023**
 
@@ -102,8 +83,3 @@ Below is a **clean, ready-to-use Markdown section** you can drop into a **Jekyll
   Automated Software Engineering, 2024.
 
 ---
-
-If you want, I can next:
-
-* Convert this into a **`papers.bib` BibTeX file** compatible with al-folio, or
-* Add **links (PDF / DOI / arXiv / code)** in a consistent Jekyll-friendly format.

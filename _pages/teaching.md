@@ -6,6 +6,18 @@ description: Here is a list of courses that I am TAing/TA’ed.
 nav: true
 ---
 
+**Programming**<br>
+Spring '26, University of Porto<br>
+Site: [Programming](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560087)
+
+**Foundations of Programming**<br>
+Fall '25, University of Porto<br>
+Site: [Foundations of Programming](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560087)
+
+**Programming**<br>
+Spring '25, University of Porto<br>
+Site: [Programming](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560087)
+
 **Programming Languages**<br>
 Spring '23, Instituto Superior Técnico, University of Lisbon<br>
 Site: [Programming Languages](https://fenix.tecnico.ulisboa.pt/disciplinas/LPro/2022-2023/2-semestre)

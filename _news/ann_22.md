@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FEUP
-date: 2025-011-20 15:59:00-0000
+date: 2025-11-20 15:59:00-0000
 inline: true
 ---
 
