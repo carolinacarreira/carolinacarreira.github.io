@@ -4,31 +4,31 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
+        {% if page.profile -%}
+        <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          {%- if page.profile.image %}
+            {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+            {% include figure.html
+            path=profile_image_path
+            class="img-fluid z-dept-1 rounded about-image"
+            alt=page.profile.image -%}
+          {% endif -%}
+          {%- if page.profile.address %}
+          <div class="address">
+            {{ page.profile.address }}
+          </div>
+          {%- endif %}
+        </div>
+        {%- endif %}
+
         <header class="post-header">
-          <h1 class="post-title">
+          <h1 class="post-title about-name">
            {{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc about-subtitle">{{ page.subtitle }}</p>
         </header>
 
         <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-              {% include figure.html 
-              path=profile_image_path 
-              class="img-fluid z-dept-1 rounded about-image"
-              alt=page.profile.image -%}
-            {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
-          </div>
-          {%- endif %}
-
           <div class="clearfix">
             {{ content }}
           </div>

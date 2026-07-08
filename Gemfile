@@ -23,4 +23,5 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'uri', '~> 0.13.0'
+    gem "ostruct"
 end

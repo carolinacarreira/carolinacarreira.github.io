@@ -1,9 +1,9 @@
 ---
 layout: page
-title: news
-permalink: /news/
-description: A growing collection of cool projects and news.
-nav: true
+title: Projects
+permalink: /projects/
+description: A growing collection of your cool projects.
+nav: false
 display_categories: [work, fun]
 horizontal: false
 ---

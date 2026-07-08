@@ -27,9 +27,24 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+// Hero / about header
+.about-name {
+  font-size: 3rem;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+}
+
+.about-subtitle {
+  color: var(--global-theme-color);
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
 // Profile
 .profile {
   margin-left: 1rem;
+  margin-bottom: 1.5rem;
   width: 100%;
 
   .address {
@@ -45,25 +60,29 @@ body.sticky-bottom-footer {
 
 .about-image {
   overflow: hidden;
-  box-shadow: 0 0 10px var(--global-shadow-color);
+  box-shadow: 0 0 0 3px var(--global-theme-color), 0 8px 20px var(--global-shadow-color);
   margin-bottom: 40px;
   border-radius: 8px;
-  
+
   img {
     width: 100%;
     display: block;
     border-radius: 8px;
     transition: transform 0.3s ease;
   }
-  
+
   &:hover {
     transform: scale(1.02);
   }
 }
 
+.clearfix > p:first-child {
+  margin-top: 0;
+}
+
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 35%;
     .address {
       p { display: block; }
     }
@@ -254,6 +273,18 @@ body.sticky-bottom-footer {
     margin-bottom: 10px;
   }
 
+  @media (max-width: 767px) {
+    .grid-sizer, .grid-item {
+      width: 100%;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 991px) {
+    .grid-sizer, .grid-item {
+      width: 45%;
+    }
+  }
+
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
@@ -261,5 +292,15 @@ body.sticky-bottom-footer {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+  }
+}
+
+@media (max-width: 767px) {
+  .about-name {
+    font-size: 2.25rem;
+  }
+
+  .about-image {
+    margin-bottom: 24px;
   }
 }

@@ -10,7 +10,7 @@
         {%- if project.img %}
         {%- include figure.html
           path=project.img
-          alt="project thumbnail" -%}
+          alt=project.title -%}
         {%- endif %}
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>

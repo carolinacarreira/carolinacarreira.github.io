@@ -23,6 +23,15 @@ a, table.table a {
   }
 }
 
+a:focus-visible,
+button:focus-visible,
+.page-link:focus-visible,
+.dropdown-item:focus-visible,
+.navbar-toggler:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 2px;
+}
+
 figure, img {
   max-width: 90vw;
 }
@@ -59,18 +68,18 @@ blockquote {
   background-color: var(--global-card-bg-color);
   border: none;
   box-shadow: 0 4px 6px var(--global-shadow-color);
-  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-  border-radius: 10px;
+  transition: transform 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  border-radius: 14px;
 
   &:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 15px var(--global-shadow-color);
   }
-  
+
   img {
     width: 100%;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
   }
 
   .card-title {
@@ -327,7 +336,7 @@ footer.sticky-bottom {
     .page-link {
       color: var(--global-text-color);
       &:hover {
-        color: $black-color;
+        color: var(--global-hover-color);
       }
     }
     &.active .page-link {

@@ -22,8 +22,8 @@ $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
-$pastel-pink:         #D198B7 !default;
-$dark-pastel-pink:    #9c7088 !default;
+$pastel-pink:         #2FA89C !default; // accent (dark mode)
+$dark-pastel-pink:    #0F6E68 !default; // accent (light mode)
 
 $grey-color:          #828282 !default;
 // $grey-color-light:    lighten($grey-color, 40%);
